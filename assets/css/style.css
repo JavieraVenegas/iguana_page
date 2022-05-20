@@ -1,0 +1,88 @@
+header {
+  background: #000000;
+  text-align: center;
+  color: #ffffff;
+  padding: 1px;
+  margin: none;
+}
+
+header h1 {
+  font-size: 50px;
+  margin: 0px;
+}
+
+#Descripcion-iguana {
+  background: #000000;
+  padding: 40px;
+  color: #ffffff;
+  text-align: center;
+}
+
+.wrapper img, .texto {
+  display: inline-block;
+  vertical-align: middle;
+}
+
+.wrapper img {
+width: 40%;
+}
+
+.wrapper .texto {
+width: 50%;
+margin-right: 4%;
+float: left;
+text-align: justify;
+}
+
+body {
+text-align: center;
+color: #000000;
+margin: 0;
+font-family: 'Raleway', Raleway light;
+}
+
+#Descripcion-iguana {
+  font-family: "Raleway";
+  font-weight: 300;
+  line-height: 20px;
+}
+
+#Iconos {
+  background: #1e1a13;
+  padding: 30px;
+  margin: 0;
+  color: #ffffff;
+}
+
+#Iconos h2 {
+  font-size: 40px;
+}
+
+.seccion-iconos article{
+  display: inline-block;
+  color: #ffffff;
+  text-align: center;
+  margin: 30px;
+  font-size: 25px;
+  font-weight: 300
+}
+
+#seccion_imagenes {
+  background: #000000;
+  padding: 73px;
+  margin: none;
+  border: none;
+}
+
+.centrado div {
+  display: inline-block;
+  padding: 0 px;
+  margin-left: 1%;
+}
+
+footer {
+  background: #1e1a13;
+  color: #ffffff;
+  padding: 30px;
+
+}
